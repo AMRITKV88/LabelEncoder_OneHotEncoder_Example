@@ -4,4 +4,8 @@ This code illustrates a very intuitive and clear understanding of how LabelEncod
 
 In the final output - Frst 3 columns are for country column which refers to the 1st column of x (sample dataset in the example code). The last 2 columns are for gender column which is basically 2nd column of x (sample dataset in the example code).
 
+To install the dependencies run the below command in the folder where you have saved the above codes.
+
+python -m pip install -r Requirements.txt
+
 Note: In label encoder the categorical values are assigned numeric values solely on the basis of alphabetic order. You can give a try on your own.
